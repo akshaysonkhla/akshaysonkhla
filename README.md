@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshaysonkhla
+- 👋 Hi,@akshaysonkhla from this side
 - 👀 I’m interested in WebDev & DSA
 - 🌱 I’m currently learning programming languages like C/C++ & JS
 - 💞️ I’m looking to collaborate on any major or minor project
